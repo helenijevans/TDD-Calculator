@@ -92,4 +92,4 @@ def power(numbers):
     return numbers[0] ** numbers[1]
 
 # comment back in to run file
-main()
+# main()
